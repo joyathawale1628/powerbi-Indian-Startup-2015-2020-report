@@ -36,8 +36,8 @@ The dataset includes:
 9.Remarks
 10.City/location
 
-📷 Screenshot
-screenshot.png
+📷 Preview
+(screenshot.png)
 
  How to Use
 1.Clone this repository.
