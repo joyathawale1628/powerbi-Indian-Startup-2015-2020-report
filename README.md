@@ -37,7 +37,7 @@ The dataset includes:
 10.City/location
 
 📷 Preview
-(screenshot.png)
+![Dashboard Preview](./screenshot.png)
 
  How to Use
 1.Clone this repository.
